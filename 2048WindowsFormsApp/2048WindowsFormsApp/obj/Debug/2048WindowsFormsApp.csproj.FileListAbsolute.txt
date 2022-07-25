@@ -1,0 +1,17 @@
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\bin\Debug\2048WindowsFormsApp.exe.config
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\bin\Debug\2048WindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\bin\Debug\2048WindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.Properties.Resources.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.MainForm.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.GameRulesForm.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csproj.CopyComplete
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.GameStatisticsForm.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.StartForm.resources
