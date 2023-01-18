@@ -17,6 +17,8 @@ namespace _2048WindowsFormsApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new StartForm());
+
+            // делаю изменения для новой фичи
         }
     }
 }
